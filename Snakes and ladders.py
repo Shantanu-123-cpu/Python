@@ -1,3 +1,9 @@
+# Hey! If you try to run the program, It tells you to Enter the number of players, It will just ask if Player 1 wants to roll. If you enter yes, It wil do Nothing and it will not update the position of Player 1. I have tried to fix it, but I am not able to do it. Can you help me with that?
+
+
+
+
+
 import random
 Players = int(input("Enter the number of players: "))
 Board = {
